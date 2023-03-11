@@ -3,6 +3,24 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
 
+# Visual Studio files
+*.obj
+*.lib
+*.dll
+*.exe
+*.sdf
+*.opensdf
+*.user
+*.suo
+*.vcxproj.user
+
+# Visual Studio output directories
+Debug/
+Release/
+x64/
+Win32/
+
+
 # User-specific files
 *.rsuser
 *.suo
